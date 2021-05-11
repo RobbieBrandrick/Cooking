@@ -1,9 +1,9 @@
 # More Awesome Than Diamonds Bread
 
-![dough](./images/20210228-MoreAwesomeThanDiamondsBread-1.jpg)
-![bread](./images/20210228-MoreAwesomeThanDiamondsBread-2.jpg)
-![crumb1](./images/20210228-MoreAwesomeThanDiamondsBread-3.jpg)
-![crumb2](./images/20210228-MoreAwesomeThanDiamondsBread-3.jpg)
+![dough](./20210228-MoreAwesomeThanDiamondsBread-1.jpg)
+![bread](./20210228-MoreAwesomeThanDiamondsBread-2.jpg)
+![crumb1](./20210228-MoreAwesomeThanDiamondsBread-3.jpg)
+![crumb2](./20210228-MoreAwesomeThanDiamondsBread-3.jpg)
 
 This was inspired by /u/the_bread_code video
 
